@@ -3,6 +3,7 @@ h1 {
   color: lightblue;
   text-align: center;
   font-size: 72pt;
+  background-color: rgb(237, 205, 194);
 }
 .main {
   background-image: url("http://i63.tinypic.com/5ehog6.jpg");
