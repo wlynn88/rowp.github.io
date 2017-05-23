@@ -2,9 +2,9 @@
 .header {
   color: #FFF;
   text-align: center center;
-  font-size: 12pt;
+  font-size: 56pt;
   background-color: rgb(237, 205, 194);
-  padding: 100px;
+  padding: 0px;
 }
 .main {
   background-image: url("http://i63.tinypic.com/5ehog6.jpg");
@@ -12,7 +12,7 @@
   background-size: cover;
   height: 1000px;
   width: 100%;
-  padding: 100px;
+  padding: 0px;
 }
 h2 {
   font-size: 70px;
