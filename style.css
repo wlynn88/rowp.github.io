@@ -9,4 +9,6 @@ h1 {
   background-image: url("http://i63.tinypic.com/5ehog6.jpg");
   background-position: center center;
   background size: cover;
+  height: 100%
+  width: 100%
 }
