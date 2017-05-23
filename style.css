@@ -16,7 +16,7 @@ h1 {
 }
 h2 {
   font-size: 70px;
-  font-family: helvetica;
+  font-family: helvetica, sans-serif;
   color: #FFF;
   font-weight: 400;
   line-height: 60px;
