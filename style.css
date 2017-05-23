@@ -4,7 +4,7 @@
   text-align: center center;
   font-size: 72pt;
   background-color: rgb(237, 205, 194);
-  padding: 10px;
+  padding: 100px;
 }
 .main {
   background-image: url("http://i63.tinypic.com/5ehog6.jpg");
@@ -12,7 +12,7 @@
   background-size: cover;
   height: 1000px;
   width: 100%;
-  padding: 10px;
+  padding: 100px;
 }
 h2 {
   font-size: 70px;
