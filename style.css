@@ -2,7 +2,7 @@
 h1 {
   color: lightblue;
   text-align: center;
-  font-size: 24pt;
+  font-size: 72pt;
 }
 .main {
   background-image: url("http://i63.tinypic.com/5ehog6.jpg");
@@ -10,6 +10,7 @@ h1 {
   background-size: cover;
   height: 1000px;
   width: 100%;
+  padding: 0;
 }
 h2 {
   font-size: 70px;
