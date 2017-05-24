@@ -30,8 +30,8 @@ h1 {
     }
     .inner {
       font-family: helvetica, sans-serif;
-      color: black;
+      color: white;
       border: 10%;
-      text-align: center;
+      text-align: center center;
       padding: 10px;
     }
