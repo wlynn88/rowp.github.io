@@ -27,10 +27,11 @@ h1 {
       font-size: 70px;
       font-weight: 400;
       line-height: 60px;
+      color: #FFF
     }
     .inner {
       font-family: helvetica, sans-serif;
-      color: white;
+      color: #FFF;
       border: 10%;
       text-align: center center;
       padding: 10px;
