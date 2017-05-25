@@ -40,10 +40,12 @@ h1 {
       font-size: 50px;
       color: rgb(237, 205, 194);
       text-align: center;
+      padding: 10px;
     }
     .description {
       font-size: 40px;
       color: rgb(237, 205, 194);
+      text-align: center;
     }
     .about {
       border: 2px solid gray;
