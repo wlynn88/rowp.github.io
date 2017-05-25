@@ -56,4 +56,6 @@ h1 {
       vertical-align: center;
       margin-top: 10px;
     }
-      
+    u {
+      text-decoration: underline;
+    }
