@@ -44,6 +44,8 @@ h1 {
     p {
       font-size: 40px
       color: rgb(237, 205, 194);
-      border: 5px solid gray;
+    }
+    .about {
+      border: 2px solid gray;
     }
       
