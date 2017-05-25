@@ -48,6 +48,7 @@ h1 {
       font-size: 40px;
       color: rgb(237, 205, 194);
       text-align: center;
+      vertical-align: top;
     }
     .about {
       border: 2px solid gray;
