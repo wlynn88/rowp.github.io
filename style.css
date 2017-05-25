@@ -60,7 +60,7 @@ h1 {
       text-decoration: underline;
     }
     img {
-    display: block;
+    display: inline block;
     margin: auto;
     width: 40%;
     border-radius: 100%
