@@ -62,6 +62,6 @@ h1 {
     img {
       border-radius: 100%
       display: inline-block;
-      float: center;
+      align: center;
     }
      
