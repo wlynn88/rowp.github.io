@@ -41,7 +41,7 @@ h1 {
       color: rgb(237, 205, 194);
       text-align: center;
     }
-    p {
+    .description {
       font-size: 40px;
       color: rgb(237, 205, 194);
     }
