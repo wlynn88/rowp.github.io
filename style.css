@@ -50,7 +50,7 @@ h1 {
     }
     .about {
       border: 2px solid gray;
-      padding: 0px;
+      padding-top: 10px;
       vertical-align: center;
       margin-top: 10px;
     }
