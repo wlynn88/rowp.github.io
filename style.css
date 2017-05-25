@@ -59,12 +59,10 @@ h1 {
     u {
       text-decoration: underline;
     }
-    img.center {
-    display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 33%;
-    height: auto;
+    img {
+    display: block;
+    margin: auto;
+    width: 40%;
     border-radius: 100%
     }
      
